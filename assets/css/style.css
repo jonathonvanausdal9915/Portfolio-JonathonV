@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color:darkcyan;
+    background-color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     border:solid;
     border-color:black;
@@ -26,7 +26,7 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 80px;
-    color: burlywood;
+    color: burlywood
 }
 
 .header h1 .seo {
@@ -79,7 +79,7 @@ body {
   .contact-me {
       text-align: center;
       font-size:20px;
-      color:white;
+      color:black;
   }
 
  .footer {
@@ -90,7 +90,8 @@ body {
     text-align: center;
     border:solid;
     border-color:black;
-    color:burlywood;
+    color:black;
+    background-color:whitesmoke;
   }
   
 .column {
@@ -99,20 +100,19 @@ body {
     text-align: center;
     padding-top: 250px;
     font-size: 50px;
-    color: white;
+    color: black;
   }
 
   .column-1 {
     flex: 80%;
     border: solid;
-    font-size: 45px;
+    font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    color:burlywood;
+    color:black;
     border-color:black;
+    overflow:scroll;
   }
-  .dirtimage {
-      
-  }
+
 
 a {
     color: white;
