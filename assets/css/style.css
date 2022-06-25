@@ -117,7 +117,7 @@ body {
     color:black;
     
     overflow:scroll;
-    background-color:white;
+    background-color:rgb(231, 253, 243);
   }
   .column-2 {
       height:500px;
