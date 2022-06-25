@@ -10,6 +10,8 @@ body {
     border-color:black;
    background-color:rgb(237, 229, 229);
    background-image:url("images/backgroundbody1.jpg");
+   background-image:cover;
+   background-blend-mode: multiply;
 }
 
 .header {
@@ -112,10 +114,10 @@ body {
     border-color:black;
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    color:white;
+    color:black;
     
     overflow:scroll;
-    background-color:black;
+    background-color:white;
   }
   .column-2 {
       height:500px;
