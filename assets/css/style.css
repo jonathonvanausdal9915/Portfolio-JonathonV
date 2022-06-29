@@ -92,14 +92,25 @@ body {
 }
 
 .footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
     width: 100%;
-    font-size: 20px;
-    height: 15px;
-    padding-bottom: 150px;
+    height: 40px;
+    padding-bottom: 100px;
     border: solid;
     border-color: black;
     color: black;
-    background-color: rgb(240, 239, 246);
+}
+
+.footer a {
+    color: black;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.foooter div {
+    padding-bottom: 50px;
 }
 
 .column {
@@ -177,6 +188,27 @@ body {
     background-image: url("images/calculator.jpg");
     background-position-x: center;
     color: white;
+}
+
+.column-6 {
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-right: 20px;
+}
+
+.column-7 {
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-right: 20px;
+}
+
+.column-8 {
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-right: 20px;
 }
 
 .row2 {

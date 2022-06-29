@@ -8,6 +8,7 @@
     *Work section has three work examples. 
 ## Links
     * https://github.com/jonathonvanausdal9915/Portfolio-JonathonV
+    * https://jonathonvanausdal99157.githubio/Portfolio-JonathonV/
 
 ## Screenshot
-    * /Users/jonathon/Projects/Portfolio-JonathonV/Screen Shot 2022-06-28 at 11.45.16 AM.png
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/jonathon/Desktop/screenshot1.png?version%3D1656528003542)
