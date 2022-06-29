@@ -7,7 +7,7 @@
     *All links have a destination.
     *Work section has three work examples. 
 ## Links
-    *https://github.com/jonathonvanausdal9915/Portfolio-JonathonV
+    * https://github.com/jonathonvanausdal9915/Portfolio-JonathonV
 
 ## Screenshot
-    */Users/jonathon/Projects/Portfolio-JonathonV/Screen Shot 2022-06-28 at 11.45.16 AM.png
+    * /Users/jonathon/Projects/Portfolio-JonathonV/Screen Shot 2022-06-28 at 11.45.16 AM.png
