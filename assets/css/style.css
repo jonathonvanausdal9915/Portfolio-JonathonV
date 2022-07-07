@@ -8,7 +8,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: solid;
     border-color: black;
-    background-color: rgb(237, 236, 236);
+    background: linear-gradient(to right, rgb(4, 146, 185), rgb(15, 178, 69));
 }
 
 .header {
